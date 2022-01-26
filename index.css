@@ -1,0 +1,45 @@
+* {
+    font-family: 'Inconsolata', monospace;
+    color: #555;
+}
+body {
+    background-color: #0eadec;
+}
+.container {
+    width: 320px;
+    background-color: white;
+    margin: 120px auto;
+}
+table {
+    width: 100%;
+    border-color: #0c9dc9;
+}
+td {
+    width: 25%;
+}
+button {
+    width: 100%;
+    height: 70px;
+    font-size: 24px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+#inputLabel {
+    height: 120px;
+    font-size: 40px;
+    vertical-align: bottom;
+    text-align: right;
+    padding-right: 16px;
+    background-color: #ececec;
+}
+
+
+.t1 {
+    font-size: 35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+    height: 0px;
+  
+}
